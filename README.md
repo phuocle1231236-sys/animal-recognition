@@ -26,4 +26,6 @@ Với một bộ dữ liệu lớn và nhiều nhiễu như **Animal-10** (ảnh
 │   └── app_gui.py           # Giao diện người dùng Tkinter (Chạy file này)
 ├── README.md                # Tài liệu hướng dẫn dự án
 └── requirements.txt         # Danh sách các thư viện cần thiết
-chạy bằng terminal  python src/app_gui.py
+git clone https://github.com/phuocle123123-sys/animal-recognition.git
+cd animal-recognition
+pip install -r requirements.txt
